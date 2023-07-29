@@ -1,0 +1,19 @@
+input[type="text"] {
+	text-align: center;
+	font-size: medium;
+	height: 35px;
+	width: 500px;
+	margin-top: 20%;
+	margin-left: 25%;
+	border-radius: 15px;
+}
+input[type="submit"] {
+	text-align: center;
+	font-size: medium;
+	height: 35px;
+	width: 200px;
+	border-radius: 15px;
+}
+input[type="submit"]:hover {
+	background-color: #808080;
+}
